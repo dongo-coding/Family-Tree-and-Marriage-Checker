@@ -1,2 +1,5 @@
 ﻿  DIR_FINAL_PROJECT.cpp
-  DIR_FINAL_PROJECT.vcxproj -> C:\Users\ADMIN\source\repos\DIR_FINAL_PROJECT\x64\Debug\DIR_FINAL_PROJECT.exe
+C:\Users\ADMIN\Desktop\DIR_PROJECT_GROUP12\Family-Tree-and-Marriage-Checker\DIR_FINAL_PROJECT\DIR_FINAL_PROJECT.cpp(46,64): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\DIR_PROJECT_GROUP12\Family-Tree-and-Marriage-Checker\DIR_FINAL_PROJECT\DIR_FINAL_PROJECT.cpp(55,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\DIR_PROJECT_GROUP12\Family-Tree-and-Marriage-Checker\DIR_FINAL_PROJECT\DIR_FINAL_PROJECT.cpp(77,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DIR_FINAL_PROJECT.vcxproj -> C:\Users\ADMIN\Desktop\DIR_PROJECT_GROUP12\Family-Tree-and-Marriage-Checker\x64\Debug\DIR_FINAL_PROJECT.exe
